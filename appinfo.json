@@ -1,0 +1,39 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "ancesik@gmail.com",
+    "longName": "Carbohydrates Unit Counter",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/arrow1_se.png",
+                "name": "ico_down",
+                "type": "png"
+            },
+            {
+                "file": "images/arrow1_e.png",
+                "name": "ico_right",
+                "type": "png"
+            },
+            {
+                "file": "images/arrow1_ne.png",
+                "name": "ico_up",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "CarbUnitCounter",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "469577cd-6088-4253-af84-ba4619c38a8e",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
