@@ -3,11 +3,17 @@
     "capabilities": [
         ""
     ],
-    "companyName": "ancesik@gmail.com",
+    "companyName": "Palmasoft",
     "longName": "Carbohydrates Unit Counter",
     "projectType": "native",
     "resources": {
         "media": [
+            {
+                "file": "images/formula.png",
+                "menuIcon": true,
+                "name": "formula_logo",
+                "type": "png"
+            },
             {
                 "file": "images/arrow1_se.png",
                 "name": "ico_down",
